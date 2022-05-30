@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Zooniverse project site
-
-https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
+[Zooniverse project site](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars)
 
 ### Contact us
 
