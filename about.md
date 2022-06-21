@@ -14,4 +14,4 @@ Do you ever find yourself gazing up at the blue sky and the tapestries of clouds
 * Want to stay up to date on announcements (we'll post them here, too) or dive further into the project? Checkout out our [Github page](https://github.com/Cloudspotting-on-Mars) for more information.
 
 ## Contact us
-Questions or comments about the project? Want to share your experience? Send me an email to [marek.j.slipski@jpl.nasa.gov](mailto:marek.j.slipski@jpl.nasa.gov)).
+Questions or comments about the project? Want to share your experience? Send us an email at [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com)).
