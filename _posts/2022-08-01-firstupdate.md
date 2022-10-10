@@ -18,3 +18,5 @@ Because those three sets have all been retired, we decided to release **all the 
 I really enjoyed meeting several of you at the first webinar. We'll try to get the recording posted soon and we'll let you know when we've set a data for another one this month (Aug 2022). If you have any questions, don't hesitate to reach out on the Zooniverse Talk boards or by email at [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com). 
 
 And check out [this awesome story about the project in WIRED](https://www.wired.com/story/nasa-is-crowdsourcing-cloud-research-on-mars/)!!!
+
+-Marek
