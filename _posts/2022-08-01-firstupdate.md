@@ -11,7 +11,7 @@ So what were those three data sets? Well, we wanted to make sure that we had vol
 ![Ls_coverage](/images/set_Ls.png)
 
 Now, we wanted to make sure that in each subset of time, we chose measurements that covered the entire planet (both during the day and at night). MRO, the spacecraft which MCS is on, orbits Mars once every few hours, so MCS sees about 12-13 longitudes every day. We chose to use 2 consecutive days of observations, to cover the globe. That amounts to 12 4-hour files (MCS files are organized in 4-hour chunks). The figure below shows what the coverage looks like. The points are where the locations MCS observes, and the lines in the background show the topography on Mars (dark green is high elevation, pink is low). You can see that over 48 hours we build up a snapshot of the whole planet.
-![Lat_lon_coverage](/images/48hourcoverage.png).
+![Lat_lon_coverage](/images/48hourcoverage.png)
 
 Because those three sets have all been retired, we decided to release **all the remaining data in MY29**. That's right, all the gaps between each set, throughout the whole year, we're now shooting to analyze all of it. So if you've enjoyed the project so far, please check out the [project page](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars) again and help us spot more clouds!
 
